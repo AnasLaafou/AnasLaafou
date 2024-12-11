@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasLaafou
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning computer science
+- 👀 I am passionate about supply chain management and leveraging innovative technologies to optimize and transform its processes.
+- 🌱 I’m currently a state engineer in the field of Smart Supply Chain & Logistics
 - 📫 How to reach me : anas_laafou@um5.ac.ma or anasslaafou11@gmail.com
 
 <!---
